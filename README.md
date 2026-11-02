@@ -11,6 +11,6 @@ A simple login page built with Flutter.
 
 ## How to run
 1. Create a Flutter project: `flutter create login_app`
-2. Replace `lib/login` with the file in this repo
+2. Replace `lib/main.dart` with the file in this repo
 3. Run `flutter run`
 

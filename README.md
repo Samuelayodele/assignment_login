@@ -1,16 +1,13 @@
-# assignment_login
+# uniflow
 
-# Login App
+A new Flutter project.
 
-A simple login page built with Flutter.
 
-## Features
-- Email and password fields
-- Password is hidden
-- Login button shows a message
+## Uni Login Page 
+![Login Page](/assets/screenshot/uniform_login.png)
 
-## How to run
-1. Create a Flutter project: `flutter create login_app`
-2. Replace `lib/main.dart` with the file in this repo
-3. Run `flutter run`
 
+
+
+## Uni Signup Page
+![Signup Page](/assets/screenshot/uniform_login.png)
